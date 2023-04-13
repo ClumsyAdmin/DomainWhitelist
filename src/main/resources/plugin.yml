@@ -1,0 +1,4 @@
+name: DomainWhitelist
+version: '${project.version}'
+main: org.clumsy.domainwhitelist.DomainWhitelist
+api-version: 1.19
